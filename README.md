@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-tronchinadam4 .
 - 👀 I’m interested in software systemes.
 - 🌱 I’m currently learning go and flutter.
-- 💞️ I’m looking to collaborate on building a complete software system for most things.
+<!--- - 💞️ I’m looking to collaborate on building a complete software system for most things. --->
 - 📫 How to reach me dev.tronchinadam4@gmail.com .
 
 <!---
